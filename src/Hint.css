@@ -1,0 +1,27 @@
+
+span {
+  padding: 8px;
+  margin: 8px;
+}
+
+.hint {
+  margin: 8px;
+}
+
+.colder {
+  background: rgba(90, 161, 255, 0.801);
+  color: black;
+}
+
+.warmer {
+  background: rgba(255, 135, 135, 0.733);
+  color: black;
+}
+
+.default {
+  border: solid 2px, green;
+  background: linear-gradient(to left, rgba(255, 135, 135, 0.733), rgba(90, 161, 255, 0.801));
+  border-radius: 12px;
+  box-shadow: 0 0 150px 35px rgb(230, 211, 211);
+  color: black;
+}

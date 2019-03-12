@@ -1,0 +1,15 @@
+
+li {
+  list-style-type: none;
+  text-align: center;
+}
+
+li:nth-child(1) {
+  font-size: 1.4em;
+  font-weight: 800;
+  text-shadow: 0 0 35px rgb(216, 160, 160);
+}
+
+.guessList {
+  font-size: 0.7em;
+}
